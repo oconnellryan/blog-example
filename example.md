@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: example
+title: example
 ---
 
 This is a test page
