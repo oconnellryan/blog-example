@@ -1,6 +1,6 @@
 # Site settings
 title: Great New Blog Title
-author: Ryan OConnell
+author:
   name: Evan Will
   email: ryan.oconnell416@gmail.com
 description: "Great site about Jekyll on GH-Pages."
